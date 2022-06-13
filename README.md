@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wind-ik
+- 👋 Hi, I’m Soe Aung.
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML,CSS,JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML,CSS,JS and some frameworks.
+- 💞️ I’m looking to collaborate on front-end projects.
+- 📫 You can reach me via email.
 
 <!---
 wind-ik/wind-ik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
