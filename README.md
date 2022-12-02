@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML,CSS,JS and React.
 - 💞️ I’m looking to collaborate on front-end projects.
-- 📫 You can reach me via email.
+- 📫 You can reach me via soeag.m@gmail.com
 
 <!---
 wind-ik/wind-ik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
