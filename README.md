@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soe Aung.
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML,CSS,JS and some frameworks.
+- 🌱 I’m currently learning HTML,CSS,JS and React.
 - 💞️ I’m looking to collaborate on front-end projects.
 - 📫 You can reach me via email.
 
